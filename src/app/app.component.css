@@ -1,0 +1,15 @@
+.box {
+  margin-top: 34px;
+}
+
+.pending {
+  color: #000;
+}
+
+.green {
+  color: #0f0;
+}
+
+.red {
+  color: #f00;
+}
